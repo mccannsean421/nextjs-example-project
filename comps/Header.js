@@ -14,3 +14,5 @@ const Header = () => (
         </Link>
     </div>
 )
+
+export default Header
