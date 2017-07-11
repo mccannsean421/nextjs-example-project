@@ -1,10 +1,7 @@
-import Header from '../comps/Header'//Import header component
+import Layout from '../comps/MyLayout.js'
 
 export default () => (
-	
-
-	<div>
-		<Header />
-		<p>This is the about page</p>
-	</div>
-) 
+    <Layout>
+       <p>About</p>
+    </Layout>
+)
