@@ -1,1 +1,1 @@
-web: npm run dev
+web: node --debug=5858 ./server.js
